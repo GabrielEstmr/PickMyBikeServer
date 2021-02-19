@@ -1,0 +1,1 @@
+Regra de negocio: no Banco E na lógica do código (ex: email repeetidos em User)

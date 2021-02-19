@@ -1,0 +1,16 @@
+Para iniciar o app:
+yarn init -y
+yarn add express
+yarn add typescript -D
+
+
+
+
+DDD: doamin driven design > desenvolvimento focado em dominios de conhecimentos
+
+TDD: test driven development > desenvolvimento guiado por testes
+
+Design Patterns > injeção de dependencia
+
+
+//middleware: 
